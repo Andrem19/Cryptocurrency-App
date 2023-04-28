@@ -3,7 +3,7 @@ import 'dart:convert';
 import 'package:crypto_currency_app/app_theme.dart';
 import 'package:crypto_currency_app/coin_details_model.dart';
 import 'package:crypto_currency_app/coin_graf_screen.dart';
-import 'package:crypto_currency_app/data.dart';
+import 'package:crypto_currency_app/fake_data/data.dart';
 import 'package:crypto_currency_app/update_profale_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';

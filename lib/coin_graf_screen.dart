@@ -1,6 +1,6 @@
 import 'dart:math';
 
-import 'package:crypto_currency_app/chart.dart';
+import 'package:crypto_currency_app/fake_data/chart.dart';
 import 'package:fl_chart/fl_chart.dart';
 import 'package:flutter/material.dart';
 
